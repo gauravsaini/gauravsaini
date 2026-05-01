@@ -26,16 +26,6 @@ const gaurav = {
 
 ---
 
-## 🧠 What I Do
-
-- 🏢 **Currently** — Running [GSDC Consultants](https://www.gauravsaini.com), helping businesses navigate the digital landscape
-- 💼 **Previously** — Pepperstone · IRESS · Accenture (big names, big lessons)
-- ⚛️ **Frontend** — React is my happy place
-- 🤖 **AI** — Building with intelligence, not just intuition
-- ⛓️ **Blockchain** — Decentralised and loving it
-
----
-
 ## 🛠️ Tech Stack
 
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
@@ -48,11 +38,3 @@ const gaurav = {
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
 
 ---
-
-<div align="center">
-
-*"Drinks Coffee. Spits Code."* — Gaurav Saini
-
-**[gauravsaini.com](https://www.gauravsaini.com)**
-
-</div>
